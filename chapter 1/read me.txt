@@ -1,0 +1,8 @@
+Html basic structure
+creating favicon
+cache is issue
+h tag
+p tag 
+a tag 
+img tag
+form tag 
